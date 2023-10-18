@@ -1,2 +1,2 @@
 # Portfolio
-Quick and dirty online portfolio
+Rough conversion from ODP document.
